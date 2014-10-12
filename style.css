@@ -1,0 +1,45 @@
+html {
+    /*font-family: Helvetica, Arial, sans-serif;*/
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    font-size: 120%;
+    color: #2C2728;
+    background-color: #fdfdfd;
+    padding: 2em;
+    margin: 0;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper {
+    max-width: 30em;
+}
+
+a {
+    color: #f83459;
+}
+
+a:hover,
+a:focus,
+a:active {
+    background-color: #f83459;
+    color: #fdfdfd;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+.workshop-list {
+    list-style-type: none;
+}
+
+.workshop-list li {
+    display: block;
+}
+
+.home-link:before {
+    content: "<-- "
+}
