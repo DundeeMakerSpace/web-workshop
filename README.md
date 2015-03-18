@@ -1,8 +1,8 @@
 Web Workshop
 ============
 
-The Web Workshop resources site in all its glory
-======================================
+The Resources site in all its glory
+==========================
 
 About
 =====
